@@ -18,6 +18,10 @@ Projeto da disciplina *Redes de Computadores* do curso de *Ciência da Computaç
     <img align="center" alt="tela de bate-papo" src="assets/Tela-de-bate-papo.png" width="600" height="250" />
 </p>
 
+<p align="center">
+    <img align="center" alt="tela de bate-papo" src="assets/bate-papo-usuario-entrou.png" width="600" height="250" />
+</p>
+
 ### Funcionalidades
 <ul>
 <li>Escolher sala de bate-papo</li>
