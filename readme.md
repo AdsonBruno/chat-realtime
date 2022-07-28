@@ -20,4 +20,4 @@ Projeto da disciplina *Redes de Computadores* do curso de *Ciência da Computaç
 <li>Entrar com nome de usuário</li>
 <li>Mostrar quem entrou e quem saiu da sala</li>
 <li>Mostrar quais usuários estão na sala</li>
-></ul>
+</ul>
