@@ -15,9 +15,9 @@ Projeto da disciplina *Redes de Computadores* do curso de *Ciência da Computaç
 </p>
 
 ### Funcionalidades
-> <ul>
-    <li>Escolher sala de bate-papo</li>
-    <li>Entrar com nome de usuário</li>
-    <li>Mostrar quem entrou e quem saiu da sala</li>
-    <li>Mostrar quais usuários estão na sala</li>
-> </ul>
+><ul>
+<li>Escolher sala de bate-papo</li>
+<li>Entrar com nome de usuário</li>
+<li>Mostrar quem entrou e quem saiu da sala</li>
+<li>Mostrar quais usuários estão na sala</li>
+></ul>
